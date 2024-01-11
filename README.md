@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dreaminbb
 - 👀 I’m interested in ...backend webapp and making app 
-- 🌱 I’m currently learning ...python web app and
+- 🌱 I’m currently learning ...python web app and learimg c in my school
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...he/him
