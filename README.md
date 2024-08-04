@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dreaminbb
 - 👀 I’m interested in ...backend webapp and making app and machine learnig also backend
-- 🌱 I’m currently learning ...python web app and learimg c in my school
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...python web app and  c in my school(my teacher says "submission　 coding homework with c lang" but i write with c++ or python)
+- 💞️ I’m looking to collaborate on ...　web development frontend || backend 👨‍💻
 - 📫 How to reach me ...
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...i am just a japanese
